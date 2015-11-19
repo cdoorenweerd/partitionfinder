@@ -1,3 +1,5 @@
+CDoorenweerd forked version of PartitionFinder contains PhyML v3.0 and RAxML SSE3 v8.2.3 in the programs folder compiled for Ubuntu 14.04 LTS.
+
 # PartitionFinder
 
 PartitionFinder and PartitionFinderProtein are Python programs for simultaneously 
